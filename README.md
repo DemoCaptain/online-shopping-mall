@@ -6,7 +6,7 @@
 ### 结构
 
 ```
-- css       	# css样式表
+- css       		# css样式表
 - fonts			# 字体文件
 - img			# 图片
 - js			# javascript脚本文件
