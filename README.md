@@ -1,7 +1,7 @@
 # 网上购物商场
 
-首页
 ![view-index](img/view-index.png)
+![view-buy](img/view-buy.png)
 
 ### 结构
 
